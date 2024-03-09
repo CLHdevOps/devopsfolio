@@ -7,7 +7,8 @@ module.exports = {
     author: '@FamVertical', // Optional: Updated to your preference
     github: `https://github.com/coreyhughes`, // Assumed correct URL; replace if different
     linkedin: 'https://www.linkedin.com/in/coreyhughes1/',
-    about: 'As a solutions-focused Principal DevOps Engineer with over 10 years in healthcare technology, I blend expert cloud and Atlassian tool knowledge with a servant leadership approach to empower teams and drive innovation. My expertise spans Azure and AWS infrastructure, systems documentation, and performance monitoring, all aimed at enhancing healthcare delivery. Passionate about leveraging technology to improve healthcare outcomes, I lead with empathy, foster collaboration, and am dedicated to advancing healthcare efficiency through DevOps excellence.',
+    about:
+      'As a solutions-focused Principal DevOps Engineer with over 10 years in healthcare technology, I blend expert cloud and Atlassian tool knowledge with a servant leadership approach to empower teams and drive innovation. My expertise spans Azure and AWS infrastructure, systems documentation, and performance monitoring, all aimed at enhancing healthcare delivery. Passionate about leveraging technology to improve healthcare outcomes, I lead with empathy, foster collaboration, and am dedicated to advancing healthcare efficiency through DevOps excellence.',
     projects: [
       // Placeholder for actual projects; replace with real projects and descriptions
       {
