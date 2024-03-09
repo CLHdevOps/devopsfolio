@@ -1,75 +1,61 @@
 module.exports = {
   siteMetadata: {
-    // Site URL for when it goes live
-    siteUrl: `https://elastic-meninsky-aa7c74.netlify.app/`,
-    // Your Name
-    name: 'Ryan Fitzgerald',
-    // Main Site Title
-    title: `Ryan Fitzgerald | Full-Stack Developer`,
-    // Description that goes under your name in main bio
-    description: `Lorem ipsum dolor sit amet consectetur adipisicing elit, ipsum.`,
-    // Optional: Twitter account handle
-    author: `@rfitzio`,
-    // Optional: Github account URL
-    github: `https://github.com/ryanfitzgerald`,
-    // Optional: LinkedIn account URL
-    linkedin: `https://www.linkedin.com/in/ryanafitzgerald/`,
-    // Content of the About Me section
-    about: `Lorem ipsum dolor sit amet consectetur adipisicing elit. Ducimus perferendis porro cumque ea error ab voluptatem. Temporibus adipisci exercitationem similique itaque quibusdam laudantium, qui molestiae quas, aut amet animi id.`,
-    // Optional: List your projects, they must have `name` and `description`. `link` is optional.
+    siteUrl: `https://5hughes.com`, // Corrected quotation mark for consistency
+    name: 'Corey Hughes',
+    title: 'Corey Hughes | Principal Devops Engineer',
+    description: 'Championing Data Automation & Scalability in Oncology',
+    author: '@FamVertical', // Optional: Updated to your preference
+    github: `https://github.com/coreyhughes`, // Assumed correct URL; replace if different
+    linkedin: 'https://www.linkedin.com/in/coreyhughes1/',
+    about: 'As a solutions-focused Principal DevOps Engineer with over 10 years in healthcare technology, I blend expert cloud and Atlassian tool knowledge with a servant leadership approach to empower teams and drive innovation. My expertise spans Azure and AWS infrastructure, systems documentation, and performance monitoring, all aimed at enhancing healthcare delivery. Passionate about leveraging technology to improve healthcare outcomes, I lead with empathy, foster collaboration, and am dedicated to advancing healthcare efficiency through DevOps excellence.',
     projects: [
+      // Placeholder for actual projects; replace with real projects and descriptions
       {
-        name: 'Devfolio',
+        name: 'Real-time Data Platform Enhancement',
         description:
-          'A zero-config and blazing fast personal site + blog built with GatsbyJs and TailwindCSS',
-        link: 'https://github.com/RyanFitzgerald/devfolio',
+          'Led the team in enhancing data platform resilience and efficiency using AKS, OpenAI, PowerBI, Azure Cloud, and Snowflake to support real-time patient and financial outcomes.',
+        link: 'https://5hughes.com/projects/real-time-data-platform', // Example link, replace with actual project URL
       },
-      {
-        name: 'ChromeExtensionKit',
-        description:
-          'Kit to jump-start your Chrome extension projects with a variety of battle-tested starter templates',
-        link: 'https://chromeextensionkit.com/?ref=devfolio',
-      },
-      {
-        name: 'Another Cool Project',
-        description:
-          'Lorem ipsum dolor sit amet consectetur adipisicing elit ducimus perferendis',
-        link: 'https://github.com/RyanFitzgerald/devfolio',
-      },
+      // Add more projects as needed
     ],
-    // Optional: List your experience, they must have `name` and `description`. `link` is optional.
     experience: [
       {
-        name: 'Acme Corp',
-        description: 'Full-Stack Developer, February 2020 - Present',
-        link: 'https://github.com/RyanFitzgerald/devfolio',
+        name: 'Integra Connect',
+        description: 'Principal Devops Engineer, March 2024 - Present',
+        link: 'https://www.integraconnect.com',
       },
       {
-        name: 'Globex Corp',
-        description: 'Full-Stack Developer, December 2017 - February 2020',
-        link: 'https://github.com/RyanFitzgerald/devfolio',
+        name: 'Integra Connect',
+        description: 'DevOps Tech Lead, August 2023 - March 2024',
+        link: 'https://www.integraconnect.com',
       },
       {
-        name: 'Hooli',
-        description: 'Full-Stack Developer, May 2015 - December 2017',
-        link: 'https://github.com/RyanFitzgerald/devfolio',
+        name: 'Integra Connect',
+        description: 'Sr DevOps Platform Engineer, January 2019 - October 2023',
+        link: 'https://www.integraconnect.com',
       },
+      {
+        name: 'Integra Connect',
+        description: 'Devops Cloud Engineer, December 2016 - January 2019',
+        link: 'https://www.integraconnect.com',
+      },
+      // Add more experiences as needed
     ],
-    // Optional: List your skills, they must have `name` and `description`.
     skills: [
       {
-        name: 'Languages & Frameworks',
+        name: 'Cloud Platforms & Technologies',
         description:
-          'JavaScript (ES6+), Golang, Node.js, Express.js, React, Ruby on Rails, PHP',
+          'Expertise in Azure, AWS, Kubernetes, and CI/CD pipelines. Proficient in automating cloud infrastructure with Terraform and end to end observability.',
       },
       {
-        name: 'Databases',
-        description: 'MongoDB, PostreSQL, MySQL',
+        name: 'DevOps & DevSecOps',
+        description:
+          'Advanced skills in DevOps and DevSecOps practices, including infrastructure as code, security standards implementation, and incident response.',
       },
       {
-        name: 'Other',
+        name: 'Leadership & Collaboration',
         description:
-          'Docker, Amazon Web Services (AWS), CI / CD, Microservices, API design, Agile / Scrum',
+          'Proven servant leadership approach, excelling in team empowerment, agile methodologies, and cross-functional collaboration.',
       },
     ],
   },
