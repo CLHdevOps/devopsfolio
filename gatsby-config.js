@@ -19,23 +19,26 @@ module.exports = {
     ],
     experience: [
       {
-        name: 'Integra Connect',
+        name: 'Integra Connect LLC',
         description: 'Principal Devops Engineer, March 2024 - Present',
-        link: 'https://www.integraconnect.com',
-      },
-      {
-        name: 'Integra Connect',
-        description: 'DevOps Tech Lead, August 2023 - March 2024',
-        link: 'https://www.integraconnect.com',
-      },
-      {
-        name: 'Integra Connect',
-        description: 'Sr DevOps Platform Engineer, January 2019 - October 2023',
-        link: 'https://www.integraconnect.com',
-      },
-      {
-        name: 'Integra Connect',
+        description: 'DevOps Infra Tech Lead, August 2023 - March 2024',
+        description: 'Sr DevOps Platform Engineer (Contractor), January 2019 - October 2023',
         description: 'Devops Cloud Engineer, December 2016 - January 2019',
+        link: 'https://www.integraconnect.com',
+      },
+      {
+        name: 'InCare Technologies',
+        description: 'Systems Consultant, August 2015 - April 2016',
+        link: 'https://thrivenextgen.com/',
+      },
+      {
+        name: 'Think Anew',
+        description: 'Senior Systems Engineer Contract, March 2015 - August 2015',
+        link: 'https://thinkanew.com',
+      },
+      {
+        name: 'Pioneer Health Services',
+        description: 'Operations Systems Administrator, June 2013 - January 2015',
         link: 'https://www.integraconnect.com',
       },
       // Add more experiences as needed
