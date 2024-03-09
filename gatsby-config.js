@@ -2,20 +2,18 @@ module.exports = {
   siteMetadata: {
     siteUrl: `https://5hughes.com`, // Corrected quotation mark for consistency
     name: 'Corey Hughes',
-    title: 'Corey Hughes | Principal Devops Engineer',
-    description: 'Championing Data Automation & Scalability in Oncology',
+    title: 'Corey Hughes | Principal DevOps Engineer',
+    description: 'Championing Data Automation & Scalability in Healthcare Technology',
     author: '@FamVertical', // Optional: Updated to your preference
     github: `https://github.com/coreyhughes`, // Assumed correct URL; replace if different
     linkedin: 'https://www.linkedin.com/in/coreyhughes1/',
-    about:
-      'As a solutions-focused Principal DevOps Engineer with over 10 years in healthcare technology, I blend expert cloud and Atlassian tool knowledge with a servant leadership approach to empower teams and drive innovation. My expertise spans Azure and AWS infrastructure, systems documentation, and performance monitoring, all aimed at enhancing healthcare delivery. Passionate about leveraging technology to improve healthcare outcomes, I lead with empathy, foster collaboration, and am dedicated to advancing healthcare efficiency through DevOps excellence.',
+    about: `As a seasoned Principal DevOps Engineer with over 8 years of comprehensive experience in the healthcare sector, I've honed a unique blend of hands-on technical acumen and servant leadership. My current focus lies in spearheading a team of five Senior DevOps Engineers, dedicated to enhancing the resilience, efficiency, and scalability of our data platform. This pivotal role taps into my passion for leveraging cutting-edge technologies such as AKS, OpenAI, PowerBI, Azure Cloud, and Snowflake, to not only drive innovation but also nurture a culture of collaboration and continuous learning. My approach to leadership is deeply rooted in the principles of servant leadership, prioritizing the growth and well-being of my team members and empowering them to take ownership of our shared mission to advance real-time data solutions that support patients and optimize financial outcomes. I derive great satisfaction from striking a harmonious balance between technical engagement and managerial responsibilities, ensuring both project success and professional development within my team. Throughout my career, I have demonstrated a profound capability to automate cloud infrastructure provisioning, enforce security standards, and refine solution architectures for enhanced cost efficiency. My tenure as an Azure SME has been marked by a collaborative spirit, working across teams to catalyze digital transformation initiatives and optimize operational processes. In roles spanning from DevOps Cloud Engineer to my current leadership position, I've consistently embraced a hands-on approach to technology, coupled with a commitment to servant leadership. This dual focus has enabled me to effectively manage vast server environments, oversee critical cloud-to-server migrations, and architect robust disaster recovery plans, all while fostering an environment that champions innovation, security, and efficiency.`,
     projects: [
       // Placeholder for actual projects; replace with real projects and descriptions
       {
         name: 'Real-time Data Platform Enhancement',
-        description:
-          'Led the team in enhancing data platform resilience and efficiency using AKS, OpenAI, PowerBI, Azure Cloud, and Snowflake to support real-time patient and financial outcomes.',
-        link: 'https://5hughes.com/projects/real-time-data-platform', // Example link, replace with actual project URL
+        description: 'Led the team in enhancing data platform resilience and efficiency using AKS, OpenAI, PowerBI, Azure Cloud, and Snowflake to support real-time patient and financial outcomes.',
+        link: 'https://integraconnect.com', // Example link, replace with actual project URL
       },
       // Add more projects as needed
     ],
