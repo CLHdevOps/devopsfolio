@@ -21,11 +21,26 @@ module.exports = {
       {
         name: 'Integra Connect LLC',
         description: 'Principal Devops Engineer, March 2024 - Present',
-        description: 'DevOps Infra Tech Lead, August 2023 - March 2024',
-        description: 'Sr DevOps Platform Engineer (Contractor), January 2019 - October 2023',
-        description: 'Devops Cloud Engineer, December 2016 - January 2019',
         link: 'https://www.integraconnect.com',
       },
+
+      {
+        description: 'DevOps Infra Tech Lead, August 2023 - March 2024',
+      },
+
+      {
+        description: 'Sr DevOps Platform Engineer (Contractor), January 2019 - October 2023',
+      },
+
+      {
+        description: 'Devops Cloud Engineer, December 2016 - January 2019',
+      },
+
+      {
+        name: 'Azure Administrator',
+        link: 'https://www.credly.com/badges/58f28958-1b1b-4c18-8baf-309d182304e8/public_url',
+      }
+
       {
         name: 'InCare Technologies',
         description: 'Systems Consultant, August 2015 - April 2016',
