@@ -39,18 +39,20 @@ module.exports = {
       {
         name: 'Azure Administrator',
         link: 'https://www.credly.com/badges/58f28958-1b1b-4c18-8baf-309d182304e8/public_url',
-      }
+      },
 
       {
         name: 'InCare Technologies',
         description: 'Systems Consultant, August 2015 - April 2016',
         link: 'https://thrivenextgen.com/',
       },
+
       {
         name: 'Think Anew',
         description: 'Senior Systems Engineer Contract, March 2015 - August 2015',
         link: 'https://thinkanew.com',
       },
+
       {
         name: 'Pioneer Health Services',
         description: 'Operations Systems Administrator, June 2013 - January 2015',
@@ -70,7 +72,7 @@ module.exports = {
           'Intermediate skills in Confluent Kafka and Snowflake, including data streaming, data warehousing, and real-time analytics.',
         link: 'https://www.credential.net/12baa7ab-034a-4065-b238-40c417d1bf66#gs.5m56ll',
         link: 'https://www.credly.com/badges/69703fd1-8bf5-4198-8651-73fd533c2597/public_url',
-      }
+      },
       {
         name: 'Azure DevOps & DevSecOps',
         description:
