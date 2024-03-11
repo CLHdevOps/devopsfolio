@@ -1,6 +1,6 @@
 ---
 title: Why Bitcoin is Important for Technology
-date: '2024-03-11'
+date: '2024-3-11'
 description: 'Bitcoin, the world’s first decentralized digital currency, has transformed the landscape of finance and technology since its introduction in 2009 by an entity known as Satoshi Nakamoto. Today March 11th 2024 it his a new ATH at $71k.'
 ---
 
