@@ -2,7 +2,7 @@ import { Link } from 'gatsby';
 import get from 'lodash/get';
 import React from 'react';
 
-import profileImg from '../../images/profile.jpg';
+import profileImg from '../../images/corey.jpg';
 
 const classes = {
   wrapper: 'block mb-6 md:flex',
@@ -63,7 +63,7 @@ const Header = ({ metadata = {}, noBlog = false }) => {
            {resume && (
             <li className={classes.item}>
               <a className={classes.link} href={resume}>
-                resume
+                Resume
               </a>
             </li>
           )}
