@@ -5,8 +5,8 @@ module.exports = {
     title: 'Corey Hughes | Principal DevOps Engineer',
     description: 'Championing Data Automation & Scalability in Healthcare Technology',
     author: '@FamVertical', // Optional: Updated to your preference
+    LinkedIn: 'https://www.linkedin.com/in/coreyhughes1/',
     resume: `https://resume.5hughes.com`, // Assumed correct URL; replace if different
-    linkedin: 'https://www.linkedin.com/in/coreyhughes1/',
     about: `As a seasoned Principal DevOps Engineer with over 8 years of comprehensive experience in the healthcare sector, I've honed a unique blend of hands-on technical acumen and servant leadership. My current focus lies in spearheading a team of five Senior DevOps Engineers, dedicated to enhancing the resilience, efficiency, and scalability of our data platform. This pivotal role taps into my passion for leveraging cutting-edge technologies such as AKS, OpenAI, PowerBI, Azure Cloud, and Snowflake, to not only drive innovation but also nurture a culture of collaboration and continuous learning. My approach to leadership is deeply rooted in the principles of servant leadership, prioritizing the growth and well-being of my team members and empowering them to take ownership of our shared mission to advance real-time data solutions that support patients and optimize financial outcomes. I derive great satisfaction from striking a harmonious balance between technical engagement and managerial responsibilities, ensuring both project success and professional development within my team. Throughout my career, I have demonstrated a profound capability to automate cloud infrastructure provisioning, enforce security standards, and refine solution architectures for enhanced cost efficiency. My tenure as an Azure SME has been marked by a collaborative spirit, working across teams to catalyze digital transformation initiatives and optimize operational processes. In roles spanning from DevOps Cloud Engineer to my current leadership position, I've consistently embraced a hands-on approach to technology, coupled with a commitment to servant leadership. This dual focus has enabled me to effectively manage vast server environments, oversee critical cloud-to-server migrations, and architect robust disaster recovery plans, all while fostering an environment that champions innovation, security, and efficiency.`,
     projects: [
       // Placeholder for actual projects; replace with real projects and descriptions
@@ -37,11 +37,6 @@ module.exports = {
       },
 
       {
-        name: 'Azure Administrator',
-        link: 'https://www.credly.com/badges/58f28958-1b1b-4c18-8baf-309d182304e8/public_url',
-      },
-
-      {
         name: 'InCare Technologies',
         description: 'Systems Consultant, August 2015 - April 2016',
         link: 'https://thrivenextgen.com/',
@@ -65,6 +60,7 @@ module.exports = {
         name: 'Cloud Platforms & Technologies',
         description:
           'Expertise in Azure, AWS, Kubernetes, and CI/CD pipelines. Proficient in automating cloud infrastructure with Terraform and end to end observability.',
+        link: 'https://www.credly.com/badges/58f28958-1b1b-4c18-8baf-309d182304e8/public_url',
       },
       {
         name: 'Confluent Kafka & Snowflake',

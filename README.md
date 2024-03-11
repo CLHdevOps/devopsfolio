@@ -53,6 +53,7 @@ To get started, either fork or clone the repo. Next, open `gatsby-config.js` whi
 | `author`      | Your Twitter Handle          | No       |
 | `github`      | Your GitHub Profile URL      | No       |
 | `linkedin`    | Your LinkedIn Profile URL    | No       |
+| `resume`    | Your online resume     URL     | No       |
 
 ### About Me
 

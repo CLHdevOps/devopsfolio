@@ -39,8 +39,8 @@ Sustainable Success: By fostering a culture of mutual respect and continuous imp
 The adoption of servant leadership represents a profound shift towards a more humane and effective management approach. Its focus on serving others enriches the workplace, creating an environment where employees thrive alongside the company. As businesses continue to navigate the complexities of the modern world, the principles of servant leadership offer a guiding light towards a future where mutual growth and success are intrinsically linked. In this journey, both leaders and their teams discover that the true essence of leadership is not in wielding power, but in empowering others to reach their full potential.
 
 ```js
-const helloWorld = (name = 'World') => {
-  return `Hello ${name}!`;
+const firstname = (name = 'Corey') => {
+  return `lastname ${name}!`;
 };
 
 helloWorld();
